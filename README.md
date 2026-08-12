@@ -69,6 +69,13 @@ I am a Software Development Engineer specializing in full-stack architecture, hi
   </a>
 </p>
 
+<p align="center">
+  <b>AI Tools & Frameworks</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=copilot,chatgpt,huggingface,pytorch,tensorflow&theme=dark" alt="AI Tools" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 AI / ML Expertise
