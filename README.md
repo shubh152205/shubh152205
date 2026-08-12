@@ -1,29 +1,27 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,30&height=250&section=header&text=Shubham%20Sharma&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=20](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,30&height=250&section=header&text=Shubham%20Sharma&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=55&descSize=20)" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" alt="Header" width="100%" />
 </p>
 
 <p align="center">
-  <a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;Open+Source+Security+Contributor](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;Open+Source+Security+Contributor)" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;Open+Source+Security+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/B.Tech-Computer_Science_&_Engineering-4c1d95?style=for-the-badge&logo=book&logoColor=white](https://img.shields.io/badge/B.Tech-Computer_Science_&_Engineering-4c1d95?style=for-the-badge&logo=book&logoColor=white)" alt="Academic Badge" />
-  <img src="[https://img.shields.io/badge/Location-Greater_Noida,_India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Greater_Noida,_India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE-4c1d95?style=for-the-badge&logo=book&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Greater_Noida,_India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="[https://shubh152205.github.io/Portfolio](https://shubh152205.github.io/Portfolio)"><img src="[https://img.shields.io/badge/Portfolio-Live_Site-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Live_Site-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white)" alt="Portfolio" /></a>
-  <a href="[https://linkedin.com/in/shubhamsharma0522](https://linkedin.com/in/shubhamsharma0522)"><img src="[https://img.shields.io/badge/LinkedIn-Connect-2e1065?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-2e1065?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
-  <a href="mailto:ask.shubham.dev@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact_Me-2e1065?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact_Me-2e1065?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
-  <a href="[https://github.com/shubh152205](https://github.com/shubh152205)"><img src="[https://img.shields.io/badge/GitHub-Follow-2e1065?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-2e1065?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" /></a>
+  <a href="https://shubh152205.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/shubhamsharma0522"><img src="https://img.shields.io/badge/LinkedIn-Connect-2e1065?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ask.shubham.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-2e1065?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-Follow-2e1065?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=shubh152205&label=Profile%20Views&color=6d28d9&style=for-the-badge](https://komarev.com/ghpvc/?username=shubh152205&label=Profile%20Views&color=6d28d9&style=for-the-badge)" alt="Profile Views" />
-  <img src="[https://img.shields.io/github/followers/shubh152205?label=Followers&style=for-the-badge&color=6d28d9](https://img.shields.io/github/followers/shubh152205?label=Followers&style=for-the-badge&color=6d28d9)" alt="Followers" />
-  <img src="[https://img.shields.io/github/stars/shubh152205?style=for-the-badge&color=6d28d9](https://img.shields.io/github/stars/shubh152205?style=for-the-badge&color=6d28d9)" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shubh152205&label=Profile%20Views&color=6d28d9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shubh152205?label=Followers&style=for-the-badge&color=6d28d9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shubh152205?style=for-the-badge&color=6d28d9" alt="Stars" />
 </p>
 
 ---
@@ -45,29 +43,29 @@ I am a Software Development Engineer specializing in full-stack architecture, hi
 
 <p align="center">
   <b>Languages</b><br>
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,bash&theme=dark](https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,bash&theme=dark)" alt="Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,bash&theme=dark" alt="Languages" />
   </a>
 </p>
 
 <p align="center">
   <b>Frontend</b><br>
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,materialui&theme=dark](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,materialui&theme=dark)" alt="Frontend" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,materialui&theme=dark" alt="Frontend" />
   </a>
 </p>
 
 <p align="center">
   <b>Backend & Databases</b><br>
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,mongodb,postgres,redis&theme=dark](https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,mongodb,postgres,redis&theme=dark)" alt="Backend and Databases" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,mongodb,postgres,redis&theme=dark" alt="Backend and Databases" />
   </a>
 </p>
 
 <p align="center">
   <b>Cloud, DevOps & Tooling</b><br>
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,azure,postman,cmake&theme=dark](https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,azure,postman,cmake&theme=dark)" alt="Cloud and DevOps" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,azure,postman,cmake&theme=dark" alt="Cloud and DevOps" />
   </a>
 </p>
 
@@ -231,10 +229,10 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📜 Certifications
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)" alt="AWS" />
-  <img src="[https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white](https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)" alt="Oracle" />
-  <img src="[https://img.shields.io/badge/NPTEL-Computer_Science_Certification-FF9900?style=for-the-badge](https://img.shields.io/badge/NPTEL-Computer_Science_Certification-FF9900?style=for-the-badge)" alt="NPTEL" />
-  <img src="[https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)" alt="Cisco" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/NPTEL-Computer_Science_Certification-FF9900?style=for-the-badge" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
 ---
@@ -242,10 +240,10 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="[https://leetcode.com/u/askshubh](https://leetcode.com/u/askshubh)"><img src="[https://img.shields.io/badge/LeetCode-askshubh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-askshubh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)" alt="LeetCode" /></a>
-  <a href="[https://www.geeksforgeeks.org/profile/askshubh/](https://www.geeksforgeeks.org/profile/askshubh/)"><img src="[https://img.shields.io/badge/GeeksforGeeks-askshubh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://img.shields.io/badge/GeeksforGeeks-askshubh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)" alt="GeeksforGeeks" /></a>
-  <a href="[https://www.hackerrank.com/profile/ask_shubham_dev](https://www.hackerrank.com/profile/ask_shubham_dev)"><img src="[https://img.shields.io/badge/HackerRank-ask__shubham__dev-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-ask__shubham__dev-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)" alt="HackerRank" /></a>
-  <a href="[https://www.codechef.com/users/askshubh](https://www.codechef.com/users/askshubh)"><img src="[https://img.shields.io/badge/CodeChef-askshubh-5B4638?style=for-the-badge&logo=codechef&logoColor=white](https://img.shields.io/badge/CodeChef-askshubh-5B4638?style=for-the-badge&logo=codechef&logoColor=white)" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/u/askshubh"><img src="https://img.shields.io/badge/LeetCode-askshubh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/askshubh/"><img src="https://img.shields.io/badge/GeeksforGeeks-askshubh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/ask_shubham_dev"><img src="https://img.shields.io/badge/HackerRank-ask__shubham__dev-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/users/askshubh"><img src="https://img.shields.io/badge/CodeChef-askshubh-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ---
@@ -253,15 +251,15 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8](https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0](https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 ---
@@ -269,8 +267,8 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)">
-    <img src="[https://github-profile-trophy.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15)" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -279,7 +277,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true)" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -287,7 +285,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -317,10 +315,10 @@ Current_Focus:
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:ask.shubham.dev@gmail.com"><img src="[https://img.shields.io/badge/Gmail-ask.shubham.dev@gmail.com-c026d3?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-ask.shubham.dev@gmail.com-c026d3?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" /></a>
-  <a href="[https://linkedin.com/in/shubhamsharma0522](https://linkedin.com/in/shubhamsharma0522)"><img src="[https://img.shields.io/badge/LinkedIn-shubhamsharma0522-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-shubhamsharma0522-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
-  <a href="[https://github.com/shubh152205](https://github.com/shubh152205)"><img src="[https://img.shields.io/badge/GitHub-shubh152205-581c87?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-shubh152205-581c87?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" /></a>
-  <a href="[https://shubh152205.github.io/Portfolio](https://shubh152205.github.io/Portfolio)"><img src="[https://img.shields.io/badge/Portfolio-Live_Website-3b0764?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Live_Website-3b0764?style=for-the-badge&logo=googlechrome&logoColor=white)" alt="Portfolio" /></a>
+  <a href="mailto:ask.shubham.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-ask.shubham.dev@gmail.com-c026d3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/shubhamsharma0522"><img src="https://img.shields.io/badge/LinkedIn-shubhamsharma0522-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-shubh152205-581c87?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://shubh152205.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Website-3b0764?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -330,5 +328,5 @@ Current_Focus:
 </p>
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=100&section=footer)" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=100&section=footer" alt="Footer" width="100%" />
 </p>
