@@ -292,7 +292,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution Snake" />
 </p>
 
 ---
