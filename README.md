@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Systems%20Architect&descAlignY=60&descSize=18" alt="Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;Open+Source+Security+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Enterprise+Software+Development+Engineer;Generative+AI+%26+Agentic+Systems+Specialist;High-Performance+C%2B%2B+Backend+Architect;ISRO+Bharatiya+Antariksh+Hackathon+Contributor;Open+Source+Security+Contributor+%40+OWASP" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shubh152205.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://shubh152205.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/shubhamsharma0522"><img src="https://img.shields.io/badge/LinkedIn-Connect-2e1065?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ask.shubham.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-2e1065?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-Follow-2e1065?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -28,14 +28,14 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Development Engineer specializing in full-stack architecture, high-performance systems programming, and AI integration. With a strong product engineering mindset, I architect production-grade infrastructure, ranging from custom vector database engines to multi-threaded network inspection tools.
+I am a **Software Development Engineer** specializing in full-stack architecture, high-performance systems programming, agentic AI workflows, and cloud-native integration. With a strong product engineering mindset, I architect production-grade infrastructure ranging from custom C++17 vector database engines to ISRO satellite digital twins and multi-threaded network packet inspectors.
 
-*   **Software Engineering:** Architecting resilient, asynchronous RESTful API gateways and modular microservices in C++17, Python, and Node.js.
-*   **AI/ML Expertise:** Building RAG pipelines, deploying open-weight foundation models (NVIDIA NIM LLaMA-3.1), and training predictive decision-tree ensembles.
-*   **Full Stack Development:** Designing premium, glassmorphism-based responsive interfaces using React 18, Vite, and Tailwind CSS backed by high-throughput databases.
-*   **Product Engineering Mindset:** Focused on solving complex structural bottlenecks and optimizing code for speed, safety, and scalability.
+*   💻 **Full-Stack & Mobile:** Designing responsive interfaces and cross-platform tools using React 18, Vite, Next.js, Flutter, and Tailwind CSS backed by async FastAPI/Node.js microservices.
+*   🧠 **Generative AI & Agentic Systems:** Building RAG pipelines, deploying open-weight foundation models (NVIDIA NIM LLaMA-3.1), and orchestrating multi-agent systems via Google ADK & Model Context Protocol (MCP).
+*   ⚙️ **Systems Programming:** Engineering low-latency C++17 data structures (HNSW Graph, KD-Tree, Fenwick Tree) and thread-safe TCP packet inspection tools.
+*   🚀 **Open Source & Hackathons:** Active contributor to OWASP Nettacker (2,500+ Stars) and participant in the ISRO Bharatiya Antariksh Hackathon 2026.
 
-**Open To:** Software Development Engineer (SDE) Roles, Backend Systems Engineering, AI/ML Engineering opportunities.
+**Open To:** Software Development Engineer (SDE) Roles, Backend Systems Architecture, AI/ML Engineering & GenAI Systems roles.
 
 ---
 
@@ -44,48 +44,48 @@ I am a Software Development Engineer specializing in full-stack architecture, hi
 <p align="center">
   <b>Languages</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,bash&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,dart,html,css,bash&theme=dark" alt="Languages" />
   </a>
 </p>
 
 <p align="center">
-  <b>Frontend</b><br>
+  <b>Frontend & Mobile</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,materialui&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,materialui&theme=dark" alt="Frontend and Mobile" />
   </a>
 </p>
 
 <p align="center">
-  <b>Backend & Databases</b><br>
+  <b>Backend, Databases & Cloud</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,mongodb,postgres,redis&theme=dark" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,sqlite,mongodb,postgres,gcp&theme=dark" alt="Backend and Databases" />
   </a>
 </p>
 
 <p align="center">
-  <b>Cloud, DevOps & Tooling</b><br>
+  <b>DevOps, Security & Tooling</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,azure,postman,cmake&theme=dark" alt="Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,postman,cmake&theme=dark" alt="DevOps and Tooling" />
   </a>
 </p>
 
 <p align="center">
-  <b>AI Tools & Frameworks</b><br>
+  <b>AI Frameworks & Agentic Stack</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=copilot,chatgpt,huggingface,pytorch,tensorflow&theme=dark" alt="AI Tools" />
+    <img src="https://skillicons.dev/icons?i=copilot,py,pytorch,tensorflow,huggingface&theme=dark" alt="AI Stack" />
   </a>
 </p>
 
 ---
 
-## 🧠 AI / ML Expertise
+## 🧠 AI / ML & Agentic Systems Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Vector Search & Indexing** | Advanced | Architected custom C++17 HNSW and KD-Tree databases for O(log N) search latency. |
-| **Generative AI Orchestration** | Advanced | Deployed NVIDIA NIM (LLaMA-3.1-70B/8B) and Ollama for local RAG pipelines. |
-| **Predictive Machine Learning** | Intermediate | Trained 120-tree `RandomForestClassifier` ensembles via Scikit-Learn for conversion prediction. |
-| **Speech-to-Text Audio Pipelines**| Intermediate | Engineered FFmpeg 16kHz PCM audio resampling with NLP sentiment polarity analysis. |
+| **Vector Search & Indexing** | Advanced | Architected custom C++17 HNSW graph and KD-Tree spatial databases for $O(\log N)$ semantic retrieval. |
+| **Generative AI & Agentic Workflows** | Advanced | Deployed NVIDIA NIM (LLaMA-3.1-70B/8B) APIs, Google ADK, and Model Context Protocol (MCP) tool integrations. |
+| **Satellite Telemetry & Digital Twins** | Advanced | Modeled real-time geospatial satellite datasets for environmental digital twin monitoring (ISRO Hackathon 2026). |
+| **Predictive ML & NLP Pipelines** | Intermediate | Trained 120-tree `RandomForestClassifier` ensembles in Scikit-Learn; processed FFmpeg 16kHz audio with NLP sentiment scoring. |
 
 ---
 
@@ -99,112 +99,149 @@ An enterprise-grade, full-stack Sales Intelligence Platform combining predictive
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | React 18, Vite, Tailwind CSS, Python, FastAPI, SQLite (WAL Mode), Scikit-Learn |
-| **Scale** | Processes multiparty B2B sales conversations via asynchronous FFmpeg audio pipelines. |
-| **Performance** | Sub-millisecond API latency; 120-tree ensemble provides real-time conversion probabilities. |
+| **Stack** | React 18, Vite, Tailwind CSS, Python, FastAPI, SQLite (WAL Mode), Scikit-Learn, NVIDIA NIM |
+| **Scale** | Processes multiparty B2B sales conversations via asynchronous FFmpeg 16kHz PCM audio pipelines. |
+| **Performance** | Sub-50ms API response time; 120-tree RandomForest ensemble delivers real-time conversion probability scores. |
 | **Security** | PyJWT (HS256) session management and PBKDF2-HMAC password hashing. |
-| **Impact** | Accelerated sales outreach velocity by 65% through autonomous LLM synthesis. |
-| **Repository** | [SaaS-SalesGenieAI](https://github.com/shubh152205/SaaS-SalesGenieAI.git) |
+| **Impact** | Accelerated sales outreach velocity by 65% through autonomous LLM synthesis across 4 behavioral personas. |
+| **Repository** | [SaaS-SalesGenieAI](https://github.com/shubh152205/SaaS-SalesGenieAI) |
 
 *Developed as a production-ready ecosystem, this platform bridges complex systems engineering with applied artificial intelligence, orchestrating multi-tier failover logic for enterprise inference.*
 </details>
 
 <details>
-<summary><b>✨ My Own AI | Vector Database Engine</b></summary>
+<summary><b>✨ Terra-Twin | Satellite Geospatial Digital Twin Dashboard (ISRO Hackathon 2026)</b></summary>
 <br>
 
-A high-performance Vector Database built from scratch in C++17, implementing HNSW, KD-Tree, and Brute Force search algorithms natively alongside an integrated Ollama RAG pipeline.
+A space-technology digital twin dashboard designed for the Bharatiya Antariksh Hackathon 2026 (organized by ISRO & Hack2skill) to process space telemetry data and monitor environmental changes.
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | C++17, Ollama, REST API, HTML/JS, POSIX Threads |
-| **Scale** | Handles 768-dimensional semantic embeddings via `nomic-embed-text`. |
-| **Performance** | O(log N) retrieval complexity leveraging multilayer small-world graph architectures. |
-| **Security** | Thread-safe CRUD operations enforced via `std::mutex` and lock-free concurrency paradigms. |
-| **Impact** | Demonstrates production-grade infrastructure mirroring enterprise databases like Pinecone and Weaviate. |
-| **Repository** | [My_Own_Ai](https://github.com/shubh152205/My_Own_Ai.git) |
+| **Stack** | Python, Satellite Geospatial Telemetry, Vector Embeddings, Digital Twin Architecture |
+| **Scale** | Processes large-scale multi-spectral satellite datasets and geospatial coordinate vectors. |
+| **Performance** | High-precision digital twin modeling for real-time climate and environmental telemetry monitoring. |
+| **Impact** | Solved national-scale space tech challenges in geospatial intelligence and satellite telemetry analysis. |
+| **Repository** | [Terra-Twin](https://github.com/shubh152205) |
 
-*This systems-level project implements thread-safe memory management, binary file persistence, and dynamic 2D PCA projection for real-time visual scatter plotting of high-dimensional semantic spaces.*
+*Architected for space data processing, this project highlights spatial vector modeling and digital twin state synchronization for satellite surveillance.*
+</details>
+
+<details>
+<summary><b>✨ My Own AI | C++17 Vector Database Engine & RAG Pipeline</b></summary>
+<br>
+
+A high-performance Vector Database built from scratch in C++17, implementing native HNSW graph and KD-Tree search algorithms alongside an integrated Ollama local RAG pipeline.
+
+| Feature | Details |
+| :--- | :--- |
+| **Stack** | C++17, Ollama, HNSW Graph, KD-Tree, Server-Sent Events (SSE), Python, REST API |
+| **Scale** | Handles 768-dimensional semantic embeddings via `nomic-embed-text` with local `llama3.2` inference. |
+| **Performance** | $O(\log N)$ retrieval complexity leveraging multilayer small-world graph search algorithms. |
+| **Security** | Thread-safe CRUD operations enforced via `std::mutex` and native multi-threading. |
+| **Impact** | Demonstrates production-grade vector infrastructure mirroring enterprise engines like Pinecone and Weaviate. |
+| **Repository** | [my-own-ai](https://github.com/shubh152205/my-own-ai) |
+
+*This systems-level project implements thread-safe memory management, binary file persistence, and dynamic 2D PCA projection for real-time visual scatter plotting of high-dimensional semantic vectors.*
 </details>
 
 <details>
 <summary><b>✨ Nexus DPI Engine | Deep Packet Inspection System</b></summary>
 <br>
 
-A concurrent, multi-threaded packet parsing engine engineered in C++ to capture and inspect live PCAP network traffic and extract TLS Server Name Indication (SNI) data.
+A concurrent, multi-threaded packet parsing engine engineered in C++ to capture and inspect live PCAP network traffic and extract TLS Server Name Indication (SNI) payloads.
 
 | Feature | Details |
 | :--- | :--- |
 | **Stack** | C++17, Networking (TCP/IP), Multi-threading, Next.js, WebSockets |
-| **Scale** | Capable of high-throughput packet ingestion using decoupled producer-consumer thread pools. |
-| **Performance** | Operates on custom load balancers and Fast Path threads with consistent 5-tuple hashing. |
-| **Security** | Executes stateful TCP flow tracking and rules-based application filtering. |
-| **Impact** | Simulates enterprise ISP-grade traffic classification and malicious connection blocking. |
-| **Repository** | [Pocket_Analyzer](https://github.com/shubh152205/Pocket_Analyzer) |
+| **Scale** | Capable of high-throughput packet ingestion using decoupled producer-consumer thread pools with condition variables. |
+| **Performance** | Operates stateful TCP flow tracking using consistent 5-tuple hashing. |
+| **Security** | Executes application-layer SNI classification and rule-based payload filtering. |
+| **Impact** | Simulates enterprise ISP-grade traffic classification and network protocol analysis. |
+| **Repository** | [Nexus-DPI-Engine](https://github.com/shubh152205/Nexus-DPI-Engine) |
 
-*This project showcases an advanced understanding of the OSI model, endianness conversion, raw byte stream manipulation, and thread-safe queue implementation using condition variables.*
+*This project showcases an advanced understanding of the OSI model, network byte order conversion, raw socket processing, and thread synchronization.*
 </details>
 
 <details>
-<summary><b>✨ Delhi-Dehradun Expressway Simulator</b></summary>
+<summary><b>✨ Launch My Bakery | Agentic AI Business Assistant</b></summary>
 <br>
 
-A full-stack web application modeling an expressway network as a weighted graph, implementing six core computer science algorithms from scratch in C++17.
+An autonomous agentic assistant built using Google ADK and Model Context Protocol (MCP) to automate business launch workflows and location intelligence.
+
+| Feature | Details |
+| :--- | :--- |
+| **Stack** | Gemini Pro, Google ADK, Model Context Protocol (MCP), BigQuery, Google Maps APIs |
+| **Scale** | Executes spatial data queries across foot traffic, supply chain routes, and local competitor density. |
+| **Performance** | Dynamic tool usage and multi-step autonomous planning via Google Agentic Development Kit. |
+| **Impact** | Provides data-backed spatial recommendations for business establishment and route optimization. |
+| **Repository** | [launch-my-bakery](https://github.com/shubh152205/launch-my-bakery) |
+
+*Demonstrates enterprise agentic design patterns, combining BigQuery demographic datasets with Google Maps location services.*
+</details>
+
+<details>
+<summary><b>✨ Delhi-Dehradun Expressway Simulator | C++ Graph Engine</b></summary>
+<br>
+
+A full-stack web application modeling an expressway transit network as a directed weighted graph, implementing six core computer science algorithms from scratch in C++17.
 
 | Feature | Details |
 | :--- | :--- |
 | **Stack** | C++17, Node.js, Express.js, Graph Algorithms, HTML5, CSS3 |
 | **Scale** | Models 14 interchanges and 40 directed edges across diverse metric attributes (Distance, Time, Toll). |
-| **Performance** | Utilizes Fenwick Trees for O(log E) range queries and Bloom Filters for O(1) pass lookups. |
-| **Security** | Pure in-process computation via `cpp-httplib` with safe memory constraints. |
-| **Impact** | Bridges complex graph theory (Dijkstra, Kruskal, Bellman-Ford) with modern interactive web UI. |
-| **Repository** | [Delhi-Dehradun-Expressway-Simulator](https://github.com/shubh152205/Delhi-Dehradun-Expressway-Simulator.git) |
-
-*The simulator features a premium dark-mode glassmorphism interface, real-time API communication, and probabilistic data structures to model real-world infrastructure metrics.*
+| **Performance** | Utilizes Fenwick Trees for $O(\log E)$ range queries and Bloom Filters for $O(1)$ vehicle pass lookups. |
+| **Impact** | Bridges complex graph theory (Dijkstra, Kruskal, Bellman-Ford) with an interactive dark-mode web UI. |
+| **Repository** | [Delhi-Dehradun-Expressway-Simulator](https://github.com/shubh152205/Delhi-Dehradun-Expressway-Simulator) |
 </details>
 
 <details>
-<summary><b>✨ Charcoal | Smart Bookmark Manager</b></summary>
+<summary><b>✨ Mobile Security Tools | Malicious App Inspector & Secure Notes</b></summary>
 <br>
 
-A highly customizable Chrome extension that transforms the new tab page into a powerful bookmark manager and interactive personal dashboard.
+Cross-platform mobile applications engineered in Flutter and Dart, focusing on static package analysis and local encrypted data storage.
 
 | Feature | Details |
 | :--- | :--- |
-| **Stack** | JavaScript, HTML5, CSS3, Chrome Extensions API, Manifest V3 |
-| **Scale** | Manages nested hierarchical bookmark structures and dynamic widget rendering. |
-| **Performance** | Lightweight DOM manipulation and optimized asynchronous local storage wrapping. |
-| **Security** | Implements privacy blur modes for sensitive information and safe deletion trash bins. |
-| **Impact** | Enhances workflow productivity through customizable UI, drag-and-drop mechanics, and live widgets. |
-| **Repository** | [Charcoal](https://github.com/shubh152205/Charcoal.git) |
+| **Stack** | Flutter, Dart, SQLite, Local AES Cryptography |
+| **Scale** | Static permission inspector for flagging suspicious Android APK permissions. |
+| **Security** | 100% offline local AES encryption for confidential user notes. |
+| **Impact** | Demonstrates cross-platform mobile security architecture and offline privacy-first storage. |
+| **Repository** | [mobile-security-tools](https://github.com/shubh152205) |
+</details>
 
-*Architected with strict separation of concerns across data storage, presentation rendering, and event controller layers.*
+<details>
+<summary><b>✨ Charcoal | Smart Bookmark Manager Chrome Extension</b></summary>
+<br>
+
+A customizable Manifest V3 Chrome extension transforming the new tab page into a powerful hierarchical bookmark manager and interactive productivity dashboard.
+
+| Feature | Details |
+| :--- | :--- |
+| **Stack** | JavaScript (ES6+), HTML5, CSS3, Chrome Extensions API, Manifest V3 |
+| **Scale** | Manages nested hierarchical bookmark structures (`Pages > Boards > Bookmarks`). |
+| **Performance** | Optimized asynchronous local storage synchronization using `chrome.storage.local`. |
+| **Repository** | [Charcoal](https://github.com/shubh152205/Charcoal) |
 </details>
 
 <details>
 <summary><b>✨ Custom Touchpad Gestures | GNOME Shell Extension</b></summary>
 <br>
 
-A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configurable system actions via a native settings UI.
+A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configurable system actions via a native GJS settings UI.
 
 | Feature | Details |
 | :--- | :--- |
 | **Stack** | JavaScript (GJS), GNOME Shell API, libinput, Bash |
-| **Scale** | Supports native Wayland and X11 sessions across GNOME environments 45 through 49. |
-| **Performance** | Zero-lag gesture recognition and direct system shortcut execution. |
-| **Security** | Safe integration with core OS window management and media controllers. |
-| **Impact** | Empowers Linux developers with macOS-like multi-finger touchpad productivity. |
-| **Repository** | [gnome_gesture_extention](https://github.com/shubh152205/gnome_gesture_extention.git) |
-
-*Developed using native GNOME JavaScript bindings to provide a seamless, non-intrusive background daemon for configurable gesture mapping.*
+| **Scale** | Supports native Wayland and X11 sessions across GNOME desktop environments 45 through 49. |
+| **Repository** | [custom-gestures](https://github.com/shubh152205/custom-gestures) |
 </details>
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Hackathons
 
 ### **Full Stack Software Engineering Intern** | **Infosys Springboard**
-`Jan 2026 - Present`
+`Jun 2025 – Aug 2025`
 
 *Enterprise-grade full-stack engineering, systems architecture, and generative AI integration.*
 - Architected **SalesGenie AI**, a scalable sales operations platform integrating React 18, FastAPI, and machine learning infrastructure.
@@ -213,33 +250,40 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 - **Skills:** `Python` `FastAPI` `React.js` `Scikit-Learn` `SQLite WAL` `LLM Orchestration`
 
 ### **Open Source Software Contributor** | **OWASP Nettacker**
-`Apr 2026 - Present`
+`Apr 2026 – Present`
 
-*Automated penetration testing and vulnerability scanning framework engineering.*
-- Contributed to a globally recognized security framework maintaining over 2,500 GitHub stars.
+*Automated vulnerability scanning and security framework engineering.*
+- Contributed to a globally recognized OWASP framework maintaining over **2,500+ GitHub Stars**.
 - Engineered SARIF and DefectDojo export modules, establishing automated REST API upload pipelines for vulnerability findings.
-- Authored comprehensive unit tests via pytest, achieving 100% code coverage for reporting modules within strict CI/CD GitHub Actions workflows.
-- **Skills:** `Python` `API Integration` `Pytest` `Git` `Open Source Architecture`
+- Authored comprehensive unit tests via pytest, achieving **100% code coverage** within strict GitHub Actions CI/CD workflows.
+- **Skills:** `Python` `SARIF` `DefectDojo` `Pytest` `GitHub Actions` `Open Source`
+
+### **Hackathon Contributor & Creator** | **Bharatiya Antariksh Hackathon 2026**
+*Organized by ISRO (Indian Space Research Organisation) & Hack2skill*
+- Architected **Terra-Twin**, a digital twin dashboard designed for processing satellite space telemetry data and environmental monitoring.
+- Built geospatial data processing pipelines to analyze multi-spectral space imagery and coordinate vector models.
 
 ---
 
 ## 🏆 Achievements
 
 | Recognition | Details |
-| :---: | :---: |
-| **High-Performance Architecture** | Developed custom HNSW & KD-Tree indexing achieving O(log N) latency without external libraries. |
-| **Open Source Impact** | Merged critical reporting pipelines into OWASP Nettacker, utilized globally for automated security auditing. |
-| **Advanced System Design** | Built lock-free concurrent memory systems for Deep Packet Inspection network analysis. |
+| :---: | :--- |
+| **ISRO Hackathon Contributor** | Architected *Terra-Twin* space technology digital twin for Bharatiya Antariksh Hackathon 2026 (ISRO & Hack2skill). |
+| **Open Source Security Impact** | Merged critical SARIF & DefectDojo reporting modules into OWASP Nettacker (**2,500+ GitHub Stars**) with **100% test coverage**. |
+| **High-Performance C++ Architecture** | Developed custom HNSW & KD-Tree vector indexing achieving $O(\log N)$ latency without external vector search libraries. |
+| **Real-Time ML Performance** | Trained a 120-tree RandomForest Classifier ensemble delivering sub-50ms lead conversion probability API responses. |
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/NPTEL-Computer_Science_Certification-FF9900?style=for-the-badge" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Student" />
+  <img src="https://img.shields.io/badge/Google-Gemini_Certified_Educator-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Educator" />
+  <img src="https://img.shields.io/badge/Postman-API_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Expert" />
+  <img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Advanced" />
 </p>
 
 ---
@@ -302,19 +346,20 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ```yaml
 Current_Focus:
   Learning:
-    - Distributed Systems Architecture
-    - Advanced AI Orchestration
-    - High-Performance C++ Concurrency
+    - Distributed Systems Architecture & Consensus Protocols
+    - Agentic AI Systems & Multi-Modal Orchestration
+    - High-Performance C++ Concurrency & Lock-Free Structures
   Building:
-    - Production-Grade Vector Search Algorithms
-    - Full-Stack Machine Learning Platforms
+    - Custom Vector Database Search Engines (HNSW / KD-Tree)
+    - Full-Stack AI/ML Enterprise Platforms
+    - ISRO Satellite Telemetry Digital Twins
   Exploring:
-    - Agentic Workflows & Multi-Modal LLMs
-    - Zero-Downtime Microservice Gateways
+    - Model Context Protocol (MCP) & Google ADK Integration
+    - Zero-Downtime Microservice API Gateways
   Open_To:
     - Software Development Engineer (SDE) Roles
     - Backend Systems Architecture
-    - AI / Machine Learning Integration
+    - AI / Machine Learning & Agentic Systems Integration
 ```
 
 ---
@@ -325,7 +370,7 @@ Current_Focus:
   <a href="mailto:ask.shubham.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-ask.shubham.dev@gmail.com-c026d3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/shubhamsharma0522"><img src="https://img.shields.io/badge/LinkedIn-shubhamsharma0522-7e22ce?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/shubh152205"><img src="https://img.shields.io/badge/GitHub-shubh152205-581c87?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://shubh152205.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live_Website-3b0764?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://shubh152205.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Website-3b0764?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
