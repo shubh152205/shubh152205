@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Systems%20Architect&descAlignY=60&descSize=18" alt="Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Shubham+Sharma" alt="Shubham Sharma Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Enterprise+Software+Development+Engineer;Generative+AI+%26+Agentic+Systems+Specialist;High-Performance+C%2B%2B+Backend+Architect;ISRO+Bharatiya+Antariksh+Hackathon+Contributor;Open+Source+Security+Contributor+%40+OWASP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer+%7C+AI+%26+Systems+Architect;Generative+AI+%26+Agentic+Systems+Specialist;High-Performance+C%2B%2B+Backend+Architect;ISRO+Bharatiya+Antariksh+Hackathon+Participant;OWASP+Nettacker+Security+Participant" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I am a **Software Development Engineer** specializing in full-stack architecture
 *   💻 **Full-Stack & Mobile:** Designing responsive interfaces and cross-platform tools using React 18, Vite, Next.js, Flutter, and Tailwind CSS backed by async FastAPI/Node.js microservices.
 *   🧠 **Generative AI & Agentic Systems:** Building RAG pipelines, deploying open-weight foundation models (NVIDIA NIM LLaMA-3.1), and orchestrating multi-agent systems via Google ADK & Model Context Protocol (MCP).
 *   ⚙️ **Systems Programming:** Engineering low-latency C++17 data structures (HNSW Graph, KD-Tree, Fenwick Tree) and thread-safe TCP packet inspection tools.
-*   🚀 **Open Source & Hackathons:** Active contributor to OWASP Nettacker (2,500+ Stars) and participant in the ISRO Bharatiya Antariksh Hackathon 2026.
+*   🚀 **Open Source & Hackathons:** Active participant in OWASP Nettacker (2,500+ Stars) and the ISRO Bharatiya Antariksh Hackathon 2026.
 
 **Open To:** Software Development Engineer (SDE) Roles, Backend Systems Architecture, AI/ML Engineering & GenAI Systems roles.
 
@@ -249,16 +249,16 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 - Orchestrated NVIDIA NIM Cloud APIs (`LLaMA-3.1-70B`) with multi-tier failover logic to autonomously synthesize hyper-personalized outreach strategies.
 - **Skills:** `Python` `FastAPI` `React.js` `Scikit-Learn` `SQLite WAL` `LLM Orchestration`
 
-### **Open Source Software Contributor** | **OWASP Nettacker**
+### **Open Source Security Participant** | **OWASP Nettacker**
 `Apr 2026 – Present`
 
 *Automated vulnerability scanning and security framework engineering.*
-- Contributed to a globally recognized OWASP framework maintaining over **2,500+ GitHub Stars**.
+- Participated in a globally recognized OWASP framework maintaining over **2,500+ GitHub Stars**.
 - Engineered SARIF and DefectDojo export modules, establishing automated REST API upload pipelines for vulnerability findings.
 - Authored comprehensive unit tests via pytest, achieving **100% code coverage** within strict GitHub Actions CI/CD workflows.
 - **Skills:** `Python` `SARIF` `DefectDojo` `Pytest` `GitHub Actions` `Open Source`
 
-### **Hackathon Contributor & Creator** | **Bharatiya Antariksh Hackathon 2026**
+### **Hackathon Participant & Creator** | **Bharatiya Antariksh Hackathon 2026**
 *Organized by ISRO (Indian Space Research Organisation) & Hack2skill*
 - Architected **Terra-Twin**, a digital twin dashboard designed for processing satellite space telemetry data and environmental monitoring.
 - Built geospatial data processing pipelines to analyze multi-spectral space imagery and coordinate vector models.
@@ -269,7 +269,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 
 | Recognition | Details |
 | :---: | :--- |
-| **ISRO Hackathon Contributor** | Architected *Terra-Twin* space technology digital twin for Bharatiya Antariksh Hackathon 2026 (ISRO & Hack2skill). |
+| **ISRO Hackathon Participant** | Architected *Terra-Twin* space technology digital twin for Bharatiya Antariksh Hackathon 2026 (ISRO & Hack2skill). |
 | **Open Source Security Impact** | Merged critical SARIF & DefectDojo reporting modules into OWASP Nettacker (**2,500+ GitHub Stars**) with **100% test coverage**. |
 | **High-Performance C++ Architecture** | Developed custom HNSW & KD-Tree vector indexing achieving $O(\log N)$ latency without external vector search libraries. |
 | **Real-Time ML Performance** | Trained a 120-tree RandomForest Classifier ensemble delivering sub-50ms lead conversion probability API responses. |
@@ -377,8 +377,4 @@ Current_Focus:
 
 <p align="center">
   <i>"Clean code is good, but code that solves real problems efficiently at scale is engineering."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=100&section=footer" alt="Footer" width="100%" />
 </p>
