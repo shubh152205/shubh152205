@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Systems%20Architect&descAlignY=60&descSize=18" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,35&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20%26%20Systems%20Architect&descAlignY=60&descSize=18" alt="Header" width="100%" />
 </p>
 
 <p align="center">
@@ -302,15 +302,15 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 ---
@@ -319,7 +319,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-zeta.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -328,7 +328,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-delta.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
