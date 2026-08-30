@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Shubham+Sharma" alt="Shubham Sharma Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" alt="Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer+%7C+AI+%26+Systems+Architect;Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;OWASP+Nettacker+Security+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Enterprise+Software+Development+Engineer;AI+%26+Machine+Learning+Architect;High-Performance+Backend+Systems+Engineer;Open+Source+Security+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Development Engineer** specializing in full-stack architecture, high-performance systems programming, and AI integration. With a strong product engineering mindset, I architect production-grade infrastructure, ranging from custom vector database engines to multi-threaded network inspection tools.
+I am a Software Development Engineer specializing in full-stack architecture, high-performance systems programming, and AI integration. With a strong product engineering mindset, I architect production-grade infrastructure, ranging from custom vector database engines to multi-threaded network inspection tools.
 
 *   **Software Engineering:** Architecting resilient, asynchronous RESTful API gateways and modular microservices in C++17, Python, and Node.js.
 *   **AI/ML Expertise:** Building RAG pipelines, deploying open-weight foundation models (NVIDIA NIM LLaMA-3.1), and training predictive decision-tree ensembles.
@@ -104,7 +104,7 @@ An enterprise-grade, full-stack Sales Intelligence Platform combining predictive
 | **Performance** | Sub-millisecond API latency; 120-tree ensemble provides real-time conversion probabilities. |
 | **Security** | PyJWT (HS256) session management and PBKDF2-HMAC password hashing. |
 | **Impact** | Accelerated sales outreach velocity by 65% through autonomous LLM synthesis. |
-| **Repository** | [SaaS-SalesGenieAI](https://github.com/shubh152205/SaaS-SalesGenieAI) |
+| **Repository** | [SaaS-SalesGenieAI](https://github.com/shubh152205/SaaS-SalesGenieAI.git) |
 
 *Developed as a production-ready ecosystem, this platform bridges complex systems engineering with applied artificial intelligence, orchestrating multi-tier failover logic for enterprise inference.*
 </details>
@@ -122,7 +122,7 @@ A high-performance Vector Database built from scratch in C++17, implementing HNS
 | **Performance** | O(log N) retrieval complexity leveraging multilayer small-world graph architectures. |
 | **Security** | Thread-safe CRUD operations enforced via `std::mutex` and lock-free concurrency paradigms. |
 | **Impact** | Demonstrates production-grade infrastructure mirroring enterprise databases like Pinecone and Weaviate. |
-| **Repository** | [My_Own_Ai](https://github.com/shubh152205/my-own-ai) |
+| **Repository** | [My_Own_Ai](https://github.com/shubh152205/My_Own_Ai.git) |
 
 *This systems-level project implements thread-safe memory management, binary file persistence, and dynamic 2D PCA projection for real-time visual scatter plotting of high-dimensional semantic spaces.*
 </details>
@@ -140,7 +140,7 @@ A concurrent, multi-threaded packet parsing engine engineered in C++ to capture 
 | **Performance** | Operates on custom load balancers and Fast Path threads with consistent 5-tuple hashing. |
 | **Security** | Executes stateful TCP flow tracking and rules-based application filtering. |
 | **Impact** | Simulates enterprise ISP-grade traffic classification and malicious connection blocking. |
-| **Repository** | [Nexus-DPI-Engine](https://github.com/shubh152205/Nexus-DPI-Engine) |
+| **Repository** | [Pocket_Analyzer](https://github.com/shubh152205/Pocket_Analyzer) |
 
 *This project showcases an advanced understanding of the OSI model, endianness conversion, raw byte stream manipulation, and thread-safe queue implementation using condition variables.*
 </details>
@@ -158,7 +158,7 @@ A full-stack web application modeling an expressway network as a weighted graph,
 | **Performance** | Utilizes Fenwick Trees for O(log E) range queries and Bloom Filters for O(1) pass lookups. |
 | **Security** | Pure in-process computation via `cpp-httplib` with safe memory constraints. |
 | **Impact** | Bridges complex graph theory (Dijkstra, Kruskal, Bellman-Ford) with modern interactive web UI. |
-| **Repository** | [Delhi-Dehradun-Expressway-Simulator](https://github.com/shubh152205/Delhi-Dehradun-Expressway-Simulator) |
+| **Repository** | [Delhi-Dehradun-Expressway-Simulator](https://github.com/shubh152205/Delhi-Dehradun-Expressway-Simulator.git) |
 
 *The simulator features a premium dark-mode glassmorphism interface, real-time API communication, and probabilistic data structures to model real-world infrastructure metrics.*
 </details>
@@ -176,7 +176,7 @@ A highly customizable Chrome extension that transforms the new tab page into a p
 | **Performance** | Lightweight DOM manipulation and optimized asynchronous local storage wrapping. |
 | **Security** | Implements privacy blur modes for sensitive information and safe deletion trash bins. |
 | **Impact** | Enhances workflow productivity through customizable UI, drag-and-drop mechanics, and live widgets. |
-| **Repository** | [Charcoal](https://github.com/shubh152205/Charcoal) |
+| **Repository** | [Charcoal](https://github.com/shubh152205/Charcoal.git) |
 
 *Architected with strict separation of concerns across data storage, presentation rendering, and event controller layers.*
 </details>
@@ -194,7 +194,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 | **Performance** | Zero-lag gesture recognition and direct system shortcut execution. |
 | **Security** | Safe integration with core OS window management and media controllers. |
 | **Impact** | Empowers Linux developers with macOS-like multi-finger touchpad productivity. |
-| **Repository** | [custom-gestures](https://github.com/shubh152205/custom-gestures) |
+| **Repository** | [gnome_gesture_extention](https://github.com/shubh152205/gnome_gesture_extention.git) |
 
 *Developed using native GNOME JavaScript bindings to provide a seamless, non-intrusive background daemon for configurable gesture mapping.*
 </details>
@@ -212,11 +212,11 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 - Orchestrated NVIDIA NIM Cloud APIs (`LLaMA-3.1-70B`) with multi-tier failover logic to autonomously synthesize hyper-personalized outreach strategies.
 - **Skills:** `Python` `FastAPI` `React.js` `Scikit-Learn` `SQLite WAL` `LLM Orchestration`
 
-### **Open Source Security Participant** | **OWASP Nettacker**
+### **Open Source Software Contributor** | **OWASP Nettacker**
 `Apr 2026 - Present`
 
 *Automated penetration testing and vulnerability scanning framework engineering.*
-- Participated in a globally recognized security framework maintaining over 2,500 GitHub stars.
+- Contributed to a globally recognized security framework maintaining over 2,500 GitHub stars.
 - Engineered SARIF and DefectDojo export modules, establishing automated REST API upload pipelines for vulnerability findings.
 - Authored comprehensive unit tests via pytest, achieving 100% code coverage for reporting modules within strict CI/CD GitHub Actions workflows.
 - **Skills:** `Python` `API Integration` `Pytest` `Git` `Open Source Architecture`
@@ -228,7 +228,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 | Recognition | Details |
 | :---: | :---: |
 | **High-Performance Architecture** | Developed custom HNSW & KD-Tree indexing achieving O(log N) latency without external libraries. |
-| **Open Source Security Impact** | Participated in critical reporting modules for OWASP Nettacker, utilized globally for automated security auditing. |
+| **Open Source Impact** | Merged critical reporting pipelines into OWASP Nettacker, utilized globally for automated security auditing. |
 | **Advanced System Design** | Built lock-free concurrent memory systems for Deep Packet Inspection network analysis. |
 
 ---
@@ -236,10 +236,10 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google-Gemini_Certified_Student-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Student" />
-  <img src="https://img.shields.io/badge/Google-Gemini_Certified_Educator-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini Educator" />
-  <img src="https://img.shields.io/badge/Postman-API_Student_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman API Expert" />
-  <img src="https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-Certified_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/NPTEL-Computer_Science_Certification-FF9900?style=for-the-badge" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
 ---
@@ -258,15 +258,15 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh152205&hide_border=true&background=0b0914&ring=A855F7&fire=818CF8&currStreakLabel=A855F7&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=e2e8f0" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 ---
@@ -275,7 +275,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-zeta.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shubh152205&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -284,7 +284,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-delta.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh152205&bg_color=0b0914&color=A855F7&line=818CF8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -292,7 +292,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/shubh152205/shubh152205/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution Snake" />
 </p>
 
 ---
@@ -332,4 +332,8 @@ Current_Focus:
 
 <p align="center">
   <i>"Clean code is good, but code that solves real problems efficiently at scale is engineering."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=100&section=footer" alt="Footer" width="100%" />
 </p>
