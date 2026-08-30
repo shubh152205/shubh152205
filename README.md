@@ -258,7 +258,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shubh152205&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0&icon_color=818CF8" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -266,7 +266,7 @@ A Linux GNOME Shell extension mapping multi-finger touchpad gestures to configur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubh152205&layout=compact&hide_border=true&count_private=true&bg_color=0b0914&title_color=A855F7&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 ---
