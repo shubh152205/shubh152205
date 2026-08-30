@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" alt="Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=70&lines=Shubham+Sharma" alt="Shubham Sharma Header" />
 </p>
 
 <p align="center">
