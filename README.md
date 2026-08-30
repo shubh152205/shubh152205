@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Shubham%20Sharma&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descSize=18" alt="Header" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=800&height=45&lines=Software+Development+Engineer+%7C+AI+%26+Systems+Architect;Generative+AI+%26+Agentic+Systems+Specialist;High-Performance+C%2B%2B+Backend+Architect;ISRO+Bharatiya+Antariksh+Hackathon+Participant;OWASP+Nettacker+Security+Participant" alt="Typing SVG" />
 </p>
